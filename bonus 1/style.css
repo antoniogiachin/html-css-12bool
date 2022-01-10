@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    height: 100vh;
+}
+
+.point-bk, .point-gr, .point-rd, .point-cy, .point-wh{
+    height: 50px;
+    border-radius: 50%;
+    border:2px solid white;
+    width: 50%;
+    font-weight: bold;
+    font-size: 0.5em;
+}
+
+.point-bk{
+    background-color: black;
+}
+
+.point-gr{
+    background-color: yellowgreen;
+}
+
+.point-rd{
+    background-color: tomato;
+}
+
+.point-cy{
+    background-color: darkcyan;
+}
+
+.point-wh{
+    background-color: white;
+}
