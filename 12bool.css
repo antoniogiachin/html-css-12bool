@@ -18,17 +18,12 @@
     background-color: yellow;
 }
 
-/* margins */
-.mg-btm-20{
-    margin-bottom: 20px;
-}
-
 /* container e row */
 .container{
     width: 1170px;
     max-width: 100%;
     /* in questo modo se restringo va a tutta larghezza */
-    margin: 0 auto;
+    margin: 0px auto 15px;
 }
 
 .container-fluid{
@@ -153,7 +148,7 @@
 }
 
 .col-xs-offset-10{
-    margin-left: calc((100% / 12) * 1o) ;
+    margin-left: calc((100% / 12) * 10) ;
 }
 
 .col-xs-offset-11{
