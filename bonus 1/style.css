@@ -3,6 +3,10 @@ body{
     height: 100vh;
 }
 
+.container{
+    border: 10px solid white;
+}
+
 .point-bk, .point-gr, .point-rd, .point-cy, .point-wh{
     height: 50px;
     border-radius: 50%;
@@ -30,4 +34,13 @@ body{
 
 .point-wh{
     background-color: white;
+}
+
+.box{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    border-radius: 40px;
+    border: 2px solid white;
+
 }

@@ -9,6 +9,10 @@
     padding: 10px;
 }
 
+.pad-30{
+    padding: 30px;
+}
+
 .bg-blue{
     background-color:blue ;
     border: 1px solid white;
